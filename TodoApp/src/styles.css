@@ -4,3 +4,13 @@
 }
 
 
+
+.todoItem{
+  text-align: center;
+  list-style: none;
+  font-size: 20px;
+  font-style: italic;
+}
+
+
+
