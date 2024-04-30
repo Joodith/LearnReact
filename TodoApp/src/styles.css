@@ -11,6 +11,17 @@
   list-style: none;
   font-size: 20px;
   font-style: italic;
+  cursor: pointer;
+}
+
+.todoItemStrike{
+  text-align: center;
+  list-style: none;
+  font-size: 20px;
+  font-style: italic;
+  cursor: pointer;
+  text-decoration:line-through;
+  color:red
 }
 
 
