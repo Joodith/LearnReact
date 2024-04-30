@@ -1,12 +1,12 @@
 import Header from "./components/header/Header";
-import TodoList from "./components/todolist/TodoList";
+import TodoShow from "./components/todoshow/TodoShow";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="Application">
       <Header />
-      <TodoList />
+      <TodoShow />
     </div>
   );
 }
